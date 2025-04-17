@@ -1,9 +1,9 @@
----
+--- itel
 manufacturer:
     - general
 ---
 
-### Android 6+
+### Android itel
 
 Always check the following setting:
 
